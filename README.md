@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+#Luiz Lourenço
 
 ## Sobre mim
 
@@ -7,6 +7,7 @@
 - 🎓 Estudando {Pos em Inteligência Artificial} na {Faculdade Mackenzie}.
 - 💼 Trabalhando como {Analista de Suporte de Infra} na {DHL Logistics / IT Service}.
 - 🌱 Aprendendo mais sobre {Spring Framework}.
+
 
 ## Minhas Skills
 
@@ -49,6 +50,35 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-louren%C3%A7o-53a74927/)](https://www.linkedin.com/in/luiz-louren%C3%A7o-53a74927/)
+[![Linkedin](https://img.shields.io/badge/-LuizLourenco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-louren%C3%A7o-53a74927/)](https://www.linkedin.com/in/luiz-louren%C3%A7o-53a74927/)
 [![Outlook Badge](https://img.shields.io/badge/-luiz.lourenco@outlook.com.br-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:luiz.lourenco@outlook.com.br)](mailto:luiz.lourenco@outlook.com.br)
 [![GitHub](https://img.shields.io/github/followers/luizlourenco?label=follow&style=social)](https://github.com/LuizLourenco)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
